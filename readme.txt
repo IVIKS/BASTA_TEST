@@ -1,2 +1,2 @@
-Dies ist ein "awesome" Projekt
+Dies ist ein super Projekt
 live an der BASTA! erstellt!
