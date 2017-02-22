@@ -1,2 +1,2 @@
-Dies ist ein schönes Projekt
+Dies ist ein tolles Projekt
 live an der BASTA! erstellt!
