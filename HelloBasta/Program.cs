@@ -10,6 +10,7 @@ namespace HelloBasta
       Console.WriteLine("How are you?");
 
       Console.WriteLine("Press any key to ext!");
+      Console.WriteLine("Noch 10 Minuten!");
       Console.ReadLine();
     }
   }
