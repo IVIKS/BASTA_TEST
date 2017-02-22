@@ -7,6 +7,7 @@ namespace HelloBasta
     static void Main(string[] args)
     {
       Console.WriteLine("Hello Basta!");
+      Console.WriteLine("How are you?");
       Console.ReadLine();
     }
   }
