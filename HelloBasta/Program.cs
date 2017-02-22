@@ -6,8 +6,10 @@ namespace HelloBasta
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Hallo Basta!");
+      Console.WriteLine("Hallo BASTA!");
       Console.WriteLine("How are you?");
+
+      Console.WriteLine("Press any key to ext!");
       Console.ReadLine();
     }
   }
